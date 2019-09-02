@@ -4,7 +4,7 @@ z= int("3")
 print(x)
 print(y)
 print(z)
-print()
+print()         # break line
 
 x= float(1)
 y= float(2.9)
@@ -14,7 +14,7 @@ print(x)
 print(y)
 print(z)
 print(s)
-print()
+print()         # break line
 
 x= str("string1")
 y= str(2)
